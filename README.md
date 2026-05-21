@@ -4,6 +4,7 @@
   <b>Business Operations Analyst → Aspiring Business Analyst</b><br/>
   I find patterns in messy data, map broken processes, and structure information so people can act on it.
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/varneet-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,7 +14,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=varneet-s&style=for-the-badge&color=0A66C2" />
 </p>
----
  
 ## 🙋 About Me
  
@@ -41,6 +41,13 @@
 ---
  
 ## 📂 Projects
+
+### 📦 Olist E-Commerce Operations Analysis *(Coming Soon)*
+**Tools:** Excel · Tableau · Draw.io 
+End-to-end BA project on Brazil's largest e-commerce dataset — stakeholder mapping, process analysis, gap identification, and recommendations.
+ 
+> Repository will be live shortly.
+---
  
 ### 🛒 [Retail Sales & Customer Behaviour Analysis](https://github.com/varneet-s/Vrinda-Store-Data-Analysis)
 **Tools:** Excel  
@@ -51,14 +58,6 @@ Cleaned and transformed raw retail data to identify revenue patterns across chan
 - Built an Excel dashboard visualising KPIs to support targeted marketing and channel strategy
 ---
  
-### 📦 Olist E-Commerce Operations Analysis *(Coming Soon)*
-**Tools:** SQL · Tableau  
-End-to-end BA project on Brazil's largest e-commerce dataset — stakeholder mapping, process analysis, gap identification, and recommendations.
- 
-> Repository will be live shortly.
- 
----
- 
 ## 📜 Certifications
  
 | Certification | Issuer |
@@ -66,16 +65,6 @@ End-to-end BA project on Brazil's largest e-commerce dataset — stakeholder map
 | Business Analyst Professional Certificate | Microsoft |
 | Data Analytics Job Simulation | Deloitte × Forage |
  
----
- 
-## 📊 GitHub Activity
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varneet-s&theme=default&hide_border=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varneet-s&layout=compact&theme=default&hide_border=true&langs_count=4" />
-</p>
 ---
  
 <p align="center">
