@@ -5,10 +5,10 @@
   I find patterns in messy data, map broken processes, and structure information so people can act on it.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/varneet-s">
+  <a href="https://www.linkedin.com/in/varneet-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/varneet-s/varneet-portfolio">
+  <a href="https://varneet-s.github.io/varneet-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=varneet-s&style=for-the-badge&color=0A66C2" />
@@ -68,15 +68,16 @@ End-to-end BA project on Brazil's largest e-commerce dataset — stakeholder map
  
 ---
  
-## 📊 GitHub Stats
+## 📊 GitHub Activity
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varneet-s&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varneet-s&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=varneet-s&theme=default&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varneet-s&layout=compact&theme=default&hide_border=true&langs_count=4" />
 </p>
 ---
  
 <p align="center">
-  <i>Open to BA roles — full-time, contract, or internship. Drop a message on <a href="https://www.linkedin.com/in/varneet-s">LinkedIn</a>.</i>
+  <i>Open to BA roles — full-time, contract, or internship. Drop a message on <a href="https://www.linkedin.com/in/varneet-singh/">LinkedIn</a>.</i>
 </p>
- 
