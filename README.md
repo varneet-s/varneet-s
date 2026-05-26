@@ -42,11 +42,10 @@
  
 ## 📂 Projects
 
-### 📦 Olist E-Commerce Operations Analysis *(Coming Soon)*
+### 📦 [Olist E-Commerce Operations Analysis](https://github.com/varneet-s/olist-analysis)
 **Tools:** Excel · Tableau · Draw.io 
 End-to-end BA project on Brazil's largest e-commerce dataset — stakeholder mapping, process analysis, gap identification, and recommendations.
  
-> Repository will be live shortly.
 ---
  
 ### 🛒 [Retail Sales & Customer Behaviour Analysis](https://github.com/varneet-s/Vrinda-Store-Data-Analysis)
