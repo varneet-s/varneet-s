@@ -21,6 +21,7 @@
 - 💼 Currently: **Business Operations Analyst** at I.P. Pharma — building tracking systems, analysing revenue constraints, and documenting operational processes
 - 🎯 Targeting: **Business Analyst** roles in data-heavy, ops-focused environments
 - 🛠️ I work in Excel, SQL, and Tableau — no fluff, no Python (yet)
+- 🚧 Building: a SQL-based business querying project — up next
 - 📚 Certified via **Microsoft BA Professional Certificate** & **Deloitte Data Analytics (Forage)**
 ---
  
@@ -43,8 +44,14 @@
 ## 📂 Projects
 
 ### 📦 [Olist E-Commerce Operations Analysis](https://github.com/varneet-s/olist-analysis)
-**Tools:** Excel · Tableau · Draw.io 
+**Tools:** Excel · Tableau · Draw.io  
 End-to-end BA project on Brazil's largest e-commerce dataset — stakeholder mapping, process analysis, gap identification, and recommendations.
+
+---
+
+### 💊 [I.P. Pharma Operational Dashboard & Sales Tracking](https://varneet-s.github.io/varneet-portfolio/projects/pharma.html)
+**Tools:** Excel · Operations Management  
+Built a structured stock-tracking system to replace diary-based records across 30-40 products, cutting reporting lag from 3 days to real-time.
  
 ---
  
